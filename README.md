@@ -13,5 +13,5 @@ Condicionais - Verificar se o tiro acertou ou não em algum navio para contar co
 
 Desenvolvedores:
 
-Kaú Leal Oliveira (https://github.com/KauLeal)
+Kaú Leal Oliveira (https://github.com/KauLeal);
 Jonas Amâncio Silva Santos (https://github.com/DarkCinins)
