@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494795492 source:c:\users\jonas.elisa\documents\jo\ufal\programação\batalha naval vs npc\batalha_naval_npc\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
