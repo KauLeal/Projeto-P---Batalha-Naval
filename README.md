@@ -17,8 +17,6 @@ Ponteiro (Vetor e Alocaço Dinâmica) - As matrizes (ponteiros fixos) serão env
 
 Estrutura de Dados - Dados dos participantes (incluindo quantidade de tiros e acertos);
 
-# Desenvolvedores:
-
-Kaú Leal Oliveira (https://github.com/KauLeal)
+# Desenvolvedor:
 
 Jonas Amâncio Silva Santos (https://github.com/DarkCinins)
