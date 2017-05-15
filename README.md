@@ -5,17 +5,22 @@ navios do oponente. Vence quem "destruir" (encontrar todas as posições) todos 
 
 # Aplicações:
 
-Condicionais - Verificar se o tiro acertou ou não em algum navio para contar como acerto e informar ao usuário;
+Condicionais: botões.
 
-Repetição (funções) - Para "atirar" no navio inimigo (a função será chamada dentro de um loop enquanto houverem navios inimigos);
+Repetição: imprimir a matriz, manter o jogo rodando.
 
-Vetores Unidimensionais
+Vetores Unidimensionais: salvar as posições dos tiros que acertaram ou erraram o alvo.
 
-Vetores Multidimensionais - Matrizes e Array - Para tabuleiros;
+Vetores Multidimensionais: a matriz onde os submarinos são posicionados.
 
-Ponteiro (Vetor e Alocaço Dinâmica) - As matrizes (ponteiros fixos) serão enviados para a função, para verificar se o tiro acertou ou não algum navio;
+Ponteiros: alocação dinâmica da matriz.
 
-Estrutura de Dados - Dados dos participantes (incluindo quantidade de tiros e acertos);
+Estrutura:
+
+Funções:
+
+Recursão:
+
 
 # Desenvolvedor:
 
