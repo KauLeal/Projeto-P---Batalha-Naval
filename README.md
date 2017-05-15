@@ -17,7 +17,7 @@ Ponteiros: alocação dinâmica da matriz.
 
 Estrutura:
 
-Funções:
+Funções: finalizar o programa.
 
 Recursão:
 
